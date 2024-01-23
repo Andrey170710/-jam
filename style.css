@@ -1,0 +1,59 @@
+h1 {
+	text-align: center;
+}
+.slogan{
+
+	text-align: center;
+}
+.strawberry {
+	background: #9e8fff;
+}
+.strawberry:hover {
+	color: lightblue;
+	text-shadow: 0 0 10px darkblue;
+}
+.blackberry {
+	background: #ff8f8f;
+}
+.blackberry:hover {
+	color: lightpink;
+	text-shadow: 0 0 10px red;
+}
+.apricot {
+	background: #fff48f;
+}
+.garnet {
+	background: #b53e3e;
+}
+img {
+	width: 152px;
+	height: 150px;
+}
+div {
+	width: 180px;
+	text-align: center;
+	display:  inline-block;
+}
+ body {
+ 	text-align: center;
+ }
+ .blackberry_img {
+ 	height: 180px;
+ }
+ .honey {
+ 	background: #f7d145;
+ 	width: 230px;
+ 	margin: 2px;
+ }
+ .apricot:hover {
+ 	color: white;
+ 	text-shadow: 0 0 10px orange;
+ }
+
+.garnet:hover {
+	color: pink;
+}
+.honey:hover {
+	color: white;
+	text-shadow: 0 0 10px orange;
+}
